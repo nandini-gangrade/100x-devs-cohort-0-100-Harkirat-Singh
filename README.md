@@ -1,5 +1,12 @@
 # Harkirat Course - 100x devs cohort 2
 
+### Course Notes
+
+| Syllabus Stage  | Link                                                                                         |
+|-----------------|----------------------------------------------------------------------------------------------|
+| Complete 0-1   | [Notes: 0-1](https://github.com/nandini-gangrade/100x-devs-cohort-0-100-Harkirat-Singh/tree/0-1) |
+| Complete 0-100 | [Notes: 1-100](https://github.com/nandini-gangrade/100x-devs-cohort-0-100-Harkirat-Singh/tree/1-100) |
+
 <br>
 
 ---
