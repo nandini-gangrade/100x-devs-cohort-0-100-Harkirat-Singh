@@ -2,14 +2,15 @@
 
 HTML (**Hypertext Markup Language**) is the backbone of every webpage, responsible for defining its structure and content. It uses **tags** and **attributes** to organize and customize elements on the page.
 
----
+<br>
 
 ## Two Key Jargon in HTML  
 ![image](https://github.com/user-attachments/assets/92fbec69-f9c6-4b35-b7e0-2133cfdc2f82)
 
+<br>
+
 ### 1. **Tags**
-   
-   ![image](https://github.com/user-attachments/assets/a55eb77f-21d2-491a-9ea1-87fb33ef38a0)
+![image](https://github.com/user-attachments/assets/a55eb77f-21d2-491a-9ea1-87fb33ef38a0)
 
    - **Purpose**: Tags define the elements that make up a webpage, such as headings, paragraphs, images, or links.  
    - **Usage**: Tags are written within angle brackets (`< >`). They typically come in pairs: an opening tag (`<tag>`) and a closing tag (`</tag>`). Some tags, like `<img />`, are self-closing.  
@@ -40,7 +41,8 @@ HTML (**Hypertext Markup Language**) is the backbone of every webpage, responsib
 
 <br>
 
-### 2. **Attributes**  
+### 2. **Attributes** 
+![image](https://github.com/user-attachments/assets/9f394e3e-133d-4684-ae90-d5d6da924185)
 
    - **Purpose**: Attributes provide additional information about an element, such as its styling, behavior, or identification.  
    - **Usage**: Attributes are specified inside the opening tag and follow a `key="value"` format.
