@@ -1,0 +1,11 @@
+# 0.1 - Introduction, Settings up IDE
+
+![image](https://github.com/user-attachments/assets/cae90b99-6011-4c50-ad62-9b2b52bebfaa)
+![image](https://github.com/user-attachments/assets/450c67f7-f840-4c74-aeeb-9d34af8babf9)
+[![image](https://github.com/user-attachments/assets/8c20cfbb-053b-4853-9d1d-48758346b215)](https://zerodha.com/)
+![image](https://github.com/user-attachments/assets/e620a343-5a76-443c-91b5-91bc6ee5b859)
+![image](https://github.com/user-attachments/assets/3d9f0cd3-ca4f-4356-979e-63d046eac945)
+![image](https://github.com/user-attachments/assets/9f38c384-d343-4ff2-ad93-7571deb85e4e)
+
+![image](https://github.com/user-attachments/assets/8aed8451-fd91-493b-8b1f-4ff6a304d285)
+![image](https://github.com/user-attachments/assets/909a7c8e-24d4-4caf-98c5-c15cfa0a2f8d)
