@@ -1,3 +1,7 @@
+## Notion Notes - [Link](https://quickest-juniper-f9c.notion.site/Cohort-2-0-FullStack-Open-Source-6b6c2a9f1282499aba4782b88bf7e204)👈
+
+<br>
+
 # 1-100
 ![image](https://github.com/user-attachments/assets/30aceae8-2d71-4957-b985-5e981a3284f5)
 
