@@ -1,3 +1,7 @@
+## Notion Notes - [Link](https://quickest-juniper-f9c.notion.site/Cohort-2-0-FullStack-Open-Source-6b6c2a9f1282499aba4782b88bf7e204)👈
+
+<br>
+
 # Harkirat Course - 100x devs cohort 2
 
 ### Course Notes
